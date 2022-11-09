@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654862205 source:h:\code blocks\projects\game projects\rock paper & scissor\rock paper & scissor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1655118606 source:h:\code blocks\projects\game projects\rock paper & scissor\rock paper & scissor (dev copy)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
